@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://clintpenafiel.github.io/clintpenafiel/ /static/css/main.5707efc3.css",
+    "main.js": "https://clintpenafiel.github.io/clintpenafiel/ /static/js/main.05a26364.js",
+    "static/js/415.4d6acbeb.chunk.js": "https://clintpenafiel.github.io/clintpenafiel/ /static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "https://clintpenafiel.github.io/clintpenafiel/ /static/js/787.1ed0c42c.chunk.js",
+    "static/media/DidYouKnow.png": "https://clintpenafiel.github.io/clintpenafiel/ /static/media/DidYouKnow.649ab5fd34236b2210b3.png",
+    "static/media/Zabbix1.png": "https://clintpenafiel.github.io/clintpenafiel/ /static/media/Zabbix1.b356c40b4aea2e20262b.png",
+    "static/media/home-main.svg": "https://clintpenafiel.github.io/clintpenafiel/ /static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "https://clintpenafiel.github.io/clintpenafiel/ /static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/ClintsResume.pdf": "https://clintpenafiel.github.io/clintpenafiel/ /static/media/ClintsResume.f0b75ee6a077597a3ba3.pdf",
+    "static/media/home-bg.jpg": "https://clintpenafiel.github.io/clintpenafiel/ /static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/WisePlanner.png": "https://clintpenafiel.github.io/clintpenafiel/ /static/media/WisePlanner.68ae70dd8c95bc0acd25.png",
+    "static/media/avatar.svg": "https://clintpenafiel.github.io/clintpenafiel/ /static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "index.html": "https://clintpenafiel.github.io/clintpenafiel/ /index.html",
+    "static/media/pre.svg": "https://clintpenafiel.github.io/clintpenafiel/ /static/media/pre.4410c5baaa673cc131da.svg",
+    "main.5707efc3.css.map": "https://clintpenafiel.github.io/clintpenafiel/ /static/css/main.5707efc3.css.map",
+    "main.05a26364.js.map": "https://clintpenafiel.github.io/clintpenafiel/ /static/js/main.05a26364.js.map",
+    "415.4d6acbeb.chunk.js.map": "https://clintpenafiel.github.io/clintpenafiel/ /static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "https://clintpenafiel.github.io/clintpenafiel/ /static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5707efc3.css",
+    "static/js/main.05a26364.js"
+  ]
+}
