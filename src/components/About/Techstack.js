@@ -1,10 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiNodejs,
-  DiHtml5,
-  DiCss3,
   DiJavascript1,
   DiReact,
   DiPython,
@@ -18,7 +15,6 @@ import {
   SiNginx,
   SiUnity
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
