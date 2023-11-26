@@ -1,13 +1,13 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://ClintPenafiel.github.io" target="_blank">ClintPenafiel.github.io</a>
+  <a href="https://ClintPenafiel.netlify.app" target="_blank">ClintPenafiel.github.io</a>
 </h2>
 
 <br/>
 
 ## Built With
 
-My personal portfolio <a href="https://ClintPenafiel.github.io/" target="_blank">ClintPenafiel.github.io</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://ClintPenafiel.netlify.app/" target="_blank">ClintPenafiel.netlify.app</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
