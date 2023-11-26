@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://ClintPenafiel.netlify.app" target="_blank">ClintPenafiel.github.io</a>
+  <a href="https://ClintPenafiel.netlify.app" target="_blank">ClintPenafiel.netlify.app</a>
 </h2>
 
 <br/>
