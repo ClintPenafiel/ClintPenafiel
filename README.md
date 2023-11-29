@@ -1,8 +1,8 @@
-## Hey, its Clint Here! <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28px" height="28px">
+## Hey, its Clint Here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'Your GIF link' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ClintPenafiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ClintPenafiel)](https://www.linkedin.com/in/clintpenafiel/) [![Gmail Badge](https://img.shields.io/badge/-c_penafiel@u.pacific.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c_penafiel@u.pacific.edu)](mailto:c_penafiel@u.pacific.edu)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ClintPenafiel" alt="ClintPenafiel" /> </p>
@@ -10,7 +10,7 @@
 <div style="text-align: right">Your Quote </div>
 
 ## :computer: Technologies I Love
-* FrontEnd Development
+* FullStack Development
 * Software Engineering
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=clintpenafiel&layout=compact">
@@ -50,6 +50,6 @@
 * Finishing my last semester for my B.S. in Computer Science
 
 ## Other Facts
-📝 [My Resume](Your Resume Link)
+📝 [My Resume](https://drive.google.com/file/d/1_a0_gLSLyPlNZ9I-7HHJUNKl78i4DBMY/view?usp=sharing)
     
 
