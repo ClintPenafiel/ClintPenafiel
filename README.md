@@ -21,11 +21,6 @@
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintpenafiel)](https://github.com/clintpenafiel/github-readme-stats)
 
-## Technologies I Use
-<!-- Add the technologies you use here with the format:
-<img src = 'Your Technology Logo Link' width='30'/> 
--->
-
 ## Who am I?
  ```python
  class WhoAmI:
