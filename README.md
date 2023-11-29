@@ -4,7 +4,7 @@
 
 <img src = 'Your GIF link' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ClintPenafiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ClintPenafiel)](YourLinkedIn) [![Gmail Badge](https://img.shields.io/badge/-YourEmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YourEmail)](mailto:YourEmail) [![Youtube Channel](https://img.shields.io/badge/-YourYouTubeChannel-c14438?style=flat-square&logo=Youtube&link=YourYouTubeChannel)](YourYouTubeChannel)
+[![Linkedin Badge](https://img.shields.io/badge/-ClintPenafiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ClintPenafiel)](https://www.linkedin.com/in/clintpenafiel/) [![Gmail Badge](https://img.shields.io/badge/-YourEmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YourEmail)](mailto:YourEmail) [![Youtube Channel](https://img.shields.io/badge/-YourYouTubeChannel-c14438?style=flat-square&logo=Youtube&link=YourYouTubeChannel)](YourYouTubeChannel)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername" alt="YourGitHubUsername" /> </p>
 
 <div style="text-align: right">Your Quote </div>
