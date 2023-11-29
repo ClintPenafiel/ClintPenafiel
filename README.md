@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ClintPenafiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ClintPenafiel)](https://www.linkedin.com/in/clintpenafiel/) [![Gmail Badge](https://img.shields.io/badge/-c_penafiel@u.pacific.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c_penafiel@u.pacific.edu)](mailto:c_penafiel@u.pacific.edu)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ClintPenafiel" alt="ClintPenafiel" /> </p>
 
-<div style="text-align: right">Your Quote </div>
+<div style="text-align: right">Truth can only be found in one place: the code.</div>
 
 ## :computer: Technologies I Love
 * FullStack Development
