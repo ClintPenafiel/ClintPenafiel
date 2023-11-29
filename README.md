@@ -1,10 +1,10 @@
-## Hey, [Your Name here!](Your YouTube link)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, its Clint Here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
 <img src = 'Your GIF link' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YourLinkedIn)](YourLinkedIn) [![Gmail Badge](https://img.shields.io/badge/-YourEmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YourEmail)](mailto:YourEmail) [![Youtube Channel](https://img.shields.io/badge/-YourYouTubeChannel-c14438?style=flat-square&logo=Youtube&link=YourYouTubeChannel)](YourYouTubeChannel)
+[![Linkedin Badge](https://img.shields.io/badge/-ClintPenafiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ClintPenafiel)](YourLinkedIn) [![Gmail Badge](https://img.shields.io/badge/-YourEmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YourEmail)](mailto:YourEmail) [![Youtube Channel](https://img.shields.io/badge/-YourYouTubeChannel-c14438?style=flat-square&logo=Youtube&link=YourYouTubeChannel)](YourYouTubeChannel)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername" alt="YourGitHubUsername" /> </p>
 
 <div style="text-align: right">Your Quote </div>
