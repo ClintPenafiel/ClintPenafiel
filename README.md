@@ -29,20 +29,18 @@
 ## Who am I?
  ```python
  class WhoAmI:
-     user = 'Your Name'
-        current_work = 'Your Current Work'
+     user = 'Clint Penafiel'
+        current_work = 'Software Engineer'
         hobbies = [
-                'Your Hobby 1',
-                'Your Hobby 2',
-                'Your Hobby 3'
+                'Gaming',
+                'Exercising'
             ]
     
     def getCity():
-        return YourCity_YourCountry()
+        return Hayward_California()
     
     def Ambitions():
-        YourAmbition1()
-        YourAmbition2()
+        TravelTheWorld()
         # Assume 10 more awesome ambitions here  ;)
  ```
 ## Current Work
