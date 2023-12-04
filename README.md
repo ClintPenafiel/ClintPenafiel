@@ -12,6 +12,7 @@
 ## :computer: Technologies I Love
 * FullStack Development
 * Software Engineering
+* Web Development
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=clintpenafiel&layout=compact">
 
