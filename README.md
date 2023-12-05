@@ -44,7 +44,7 @@
 * Finishing my last semester for my B.S. in Computer Science
 
 ## Other Facts
-📝 [My Resume](https://drive.google.com/file/d/1cpqQh6-qnE43u90eudddaovqoPmdapBq/view?usp=sharing)
+📝 [My Resume](https://drive.google.com/file/d/1cjP1dYGYz8zyHNxBOE0k6Df8pNESLKb7/view?usp=sharing)
 
 
 
